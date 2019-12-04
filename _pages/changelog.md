@@ -10,19 +10,13 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 0.1**
+# **Version 1.0**
 
-Inital release.
+Inital release. Tabata style workout for Four Corners drill.
 
 #### What's New
 
-- [Privacy Polocy](/privacypolicy).
-- Screenshots.
-- Contact Information
-
-#### Bug Fixes
-
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- [Privacy Policy](/fourcorners-landing/privacypolicy).
+- Changed the way I calculated intervals and timers.
 
 <br>
